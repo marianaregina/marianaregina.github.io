@@ -2054,10 +2054,12 @@ input, select, textarea {
 			border: solid 2px #fff;
 			display: inline-block;
 			font-size: 1.35em;
-			height: calc(3em + 2px);
+			/* height: calc(3em + 2px); */
+			height: 3.125em;
 			line-height: 3em;
 			text-align: center;
-			width: calc(3em + 2px);
+			/* width: calc(3em + 2px); */
+			width: 3.125em
 		}
 
 			.icon.major:before {
