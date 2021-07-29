@@ -2052,7 +2052,7 @@ input, select, textarea {
 			transform: rotate(-45deg);
 			border-radius: 3px;
 			border: solid 2px #fff;
-			display: inline-block;
+			display: block;
 			font-size: 1.35em;
 			/* height: calc(3em + 2px); */
 			height: 3.125em;
@@ -2067,7 +2067,7 @@ input, select, textarea {
 				-webkit-transform: rotate(45deg);
 				-ms-transform: rotate(45deg);
 				transform: rotate(45deg);
-				display: inline-block;
+				display: block;
 				font-size: 1.5em;
 			}
 
