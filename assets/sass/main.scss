@@ -1083,10 +1083,10 @@
 		}
 
 		@for $i from 1 through _misc(max-spotlights) {
-			$j: 0.075 * $i;
+			// $j: 0.075 * $i;
 
 			&:nth-child(#{$i}) {
-				background-color: rgba(0,0,0, $j);
+				background-color: rgba(0,0,0, 0.075);
 			}
 		}
 
