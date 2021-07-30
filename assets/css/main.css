@@ -3237,7 +3237,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style5 .icon.major {
-				border-color: #dfdfdf;
+				border-color: rgba(0, 0, 0, 0.125);
 			}
 
 			.wrapper.style5 ul.alt li {
